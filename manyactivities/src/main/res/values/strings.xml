@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ManyActivities</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo electronico</string>
+    <string name="bEnviar">Enviar</string>
+    <string name="datos">Datos</string>
+</resources>
